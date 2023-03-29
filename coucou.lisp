@@ -1,2 +1,4 @@
-(defun hello ()
-           (format t "Coucou!~%"))
+(
+  defun hello ()
+  (format t "Coucou!~%")
+)
